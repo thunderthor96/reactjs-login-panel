@@ -1,3 +1,11 @@
+small login web app in reactjs
+
+it sends a form and it validates the mail is correct, not blank, password is not blank, and also shows the password, this is a proof of function
+
+
+![image](https://github.com/user-attachments/assets/c31c18fa-c3c3-4a61-b9dd-975ffd9589c6)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
